@@ -1,7 +1,7 @@
 {
-  "name": "Force Subscribing Bot",
+  "name": "Force-Subscribe-Bot",
   "description": "Telegram bot to force users to subscribe a particular chat",
-  "logo": "https://telegra.ph/file/317f37f33c0055bfb34d6.jpg",
+  "logo": "https://telegra.ph//file/826bbc507e842a221a585.jpg",
   "keywords": [
     "telegram",
     "bot",
@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/StarkBotsIndustries/ForceSubscribeBot",
+  "repository": "https://github.com/AerodynamicV1Botz/Force-Subscribe-Bot",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",

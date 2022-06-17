@@ -2,7 +2,7 @@
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/AerodynamicV1Botz/ForceSubscribeBot"><img src="https://telegra.ph/file/317f37f33c0055bfb34d6.jpg" width="2000"></a></p>
+<p align="center"><a href="https://www.github.com/AerodynamicV1Botz/Force-Subscribe-Bot"><img src="https://telegra.ph//file/826bbc507e842a221a585.jpg" width="2000"></a></p>
 
 Telegram bot to force users to subscribe a particular chat.
 
@@ -23,7 +23,7 @@ Telegram bot to force users to subscribe a particular chat.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/AerodynamicV1Botz/ForceSubscribeBot
+   git clone https://github.com/AerodynamicV1Botz/Force-Subscribe-Bot
    ```
    
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
@@ -32,7 +32,7 @@ Telegram bot to force users to subscribe a particular chat.
 
 4. Enter the directory
    ```markdown
-   cd ForceSubscribeBot
+   cd Force-Subscribe-Bot
    ```
 5. Run the file
    ```markdown
@@ -62,17 +62,13 @@ Telegram bot to force users to subscribe a particular chat.
 ## Credits
 
 - [AerodynamicV1Botz](https://github.com/AerodynamicV1Botz) for his [Pyrogram](https://docs.pyrogram.org) Library
-- [AerodynamicV1](https://github.com/AerodynamicV1Botz) for the idea.
+- [AerodynamicV1~🇮🇳](https://t.me/AerodynamicV1_OFFICIAL) for the idea.
 
 ## Support
 
-New Update ✅ :- [@AerodynamicV1_UPDATE](https://t.me/AerodynamicV1_UPDATE)
+[Join Update✅](https://t.me/AerodynamicV1_UPDATE)
 
-Support 💬 :- [@AerodynamicV1_SUPPORT](https://t.me/AerodynamicV1_SUPPORT)
-
-👁️‍🗨️Store💎 :- [@AerodynamicV1_Store_TG](https://t.me/AerodynamicV1_Store_TG)
-
-Free Promotion🚀 :- [@AerodynamicV1_Promotion](https://t.me/AerodynamicV1_Promotion)
+[Join Support💬](https://t.me/AerodynamicV1_Promotion)
 
 ## :)
 
